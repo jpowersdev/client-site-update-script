@@ -1,8 +1,8 @@
 ## Client Site Update Script
 
-Run this script from a terminal session in order to automatically update WPEngine Installs 
+Run this script from a terminal session in order to automatically update WPEngine Installs.
 
-Confirm that you are able to successfully connect to WPEngine SSH Gatweway
+Confirm that you are able to successfully connect to WPEngine SSH Gatweway.
 * https://wpengine.com/support/getting-started-ssh-gateway/
 
 
