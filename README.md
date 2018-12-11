@@ -1,4 +1,4 @@
-## Client Site Update Script
+## WPEngine Client Site Update Script
 
 Run this script from a terminal session in order to automatically update WPEngine Installs.
 
