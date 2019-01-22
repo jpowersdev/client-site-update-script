@@ -7,7 +7,7 @@ Confirm that you are able to successfully connect to WPEngine SSH Gatweway.
 
 When SSH'ing into a new server, you may need to manually confirm the host's authenticity. Simply type `yes` when you see the following prompt:
 
-`The authenticity of host '{phlcontroller.ssh.wpengine.net (35.196.98.9)}' can't be established.
+`The authenticity of host 'phlcontroller.ssh.wpengine.net (35.196.98.9)' can't be established.
 RSA key fingerprint is SHA256:T8IoIgBRJ3gDjA6/q7i33+nSrrpVfZipYtxo1rqvww4.
 Are you sure you want to continue connecting (yes/no)?`
 
