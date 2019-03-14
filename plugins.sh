@@ -13,7 +13,7 @@ installs='yikesplugins phlcontroller dineoutforlife soulfullproj
 		movingt multimeasures nursepartners patatgiovannis
 		philaerc phillymagic phrootz pjerome
 		researchforact riverfrontn steverotfeld waverly
-		tredyffrin'
+		tredyffrin firststatecc'
 
 for install in $installs;
 do
