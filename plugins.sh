@@ -4,16 +4,14 @@ echo "******************** Running YIKES Update Script *********************"
 echo "**********************************************************************"
 printf "\n"
 
-installs='yikesplugins phlcontroller dineoutforlife soulfullproj
-		spicermullikin phlgeekawards inoutsource upennaisp
-		delawarenature htjewelry mstonepartners actacademy
-		alliancewe baums casapapel ccardev chop
-		d3b decibelmag designthinkstd flyingfish
-		harvestmkt iba kimberton lindaleealter
-		movingt multimeasures nursepartners patatgiovannis
-		philaerc phillymagic phrootz pjerome
-		researchforact riverfrontn steverotfeld waverly
-		tredyffrin firststatecc'
+installs='actacademy alliancewe baums casapapel ccardev chop
+		d3b decibelmag delawarenature designthinkstd dineoutforlife 
+		equityproject firststatecc flyingfish harvestmkt htjewelry
+		iba inoutsource kimberton lindaleealter movingt mstonepartners
+		multimeasures nursepartners patatgiovannis philaerc phillymagic
+		phlcontroller phlgeekawards phrootz pjerome researchforact riverfrontn
+		soulfullproj spicermullikin steverotfeld tredyffrin upennaisp waverly
+		yikescloud yikesplugins'
 
 for install in $installs;
 do
