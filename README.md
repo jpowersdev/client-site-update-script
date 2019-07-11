@@ -24,4 +24,3 @@ These sites are not covered in the script for either of the following reasons:
 * https://activateworld.com/wp-admin/
 * https://www.thindifference.com/wp-admin/
 * https://lancasterlibraries.org/wp-admin/
-* https://www.diningoutforlife.com/wp-admin/ (Until the new site is launched)
