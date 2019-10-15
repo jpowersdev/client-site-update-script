@@ -4,9 +4,9 @@ echo "******************** Running YIKES Update Script *********************"
 echo "**********************************************************************"
 printf "\n"
 
-installs='actacademy alliancewe baums casapapel ccardev chop
-		d3b decibelmag delawarenature designthinkstd dineoutforlife 
-		equityproject firststatecc flyingfish harvestmkt htjewelry
+installs='aatravelers actacademy alliancewe ascinc baums casapapel ccahatool ccardev cedarpointbar
+		chop d3b decibelmag delawarenature designthinkstd dineoutforlife 
+		equityproject firststatecc flyingfish harvestmkt hivprevention htjewelry
 		iba inoutsource kimberton lindaleealter movingt mstonepartners
 		multimeasures nursepartners patatgiovannis philaerc phillymagic
 		phlcontroller phlgeekawards phrootz pjerome researchforact riverfrontn
