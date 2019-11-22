@@ -8,8 +8,8 @@ installs='aatravelers actacademy alliancewe ascinc baums casapapel ccahatool cca
 		chop d3b decibelmag delawarenature designthinkstd dineoutforlife 
 		equityproject firststatecc flyingfish harvestmkt hivprevention htjewelry
 		iba inoutsource kimberton lindaleealter movingt mstonepartners
-		multimeasures nursepartners patatgiovannis philaerc phillymagic
-		phlcontroller phlgeekawards phrootz pjerome researchforact riverfrontn
+		multimeasures nursepartners patatgiovannis phillymagic
+		phlcontroller phlgeekawards phrootz researchforact riverfrontn
 		soulfullproj spicermullikin steverotfeld tredyffrin upennaisp waverly
 		yikescloud yikesplugins'
 
