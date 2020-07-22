@@ -5,8 +5,8 @@ echo "**********************************************************************"
 printf "\n"
 
 installs='aatravelers aidslp alliancewe ascinc baums casapapel ccahatool ccardev
-		cedarpointbar chop d3b decibelmag delawarenature designthinkstd dineoutforlife 
-		equityproject firststatecc flyingfish harvestmkt hivprevention htjewelry
+		cedarpointbar chop d3b decibelcloud delawarenature designthinkstd dineoutforlife 
+		equityproject firststatecc flyingfish gbscloud gbscidpfnd gbscidpforums harvestmkt hivprevention htjewelry
 		iba inoutsource kimberton lindaleealter movingt mstonepartners
 		multimeasures nursepartners patatgiovannis phillymagic
 		phlcontroller phlgeekawards phrootz pjerome researchforact riverfrontn
