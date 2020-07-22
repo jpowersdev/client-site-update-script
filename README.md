@@ -19,8 +19,6 @@ These sites are not covered in the script for either of the following reasons:
 2. You, as the user, do not have SSH privileges for the install.
 
 * https://fight.org/wp-admin/
-* https://www.gbs-cidp.org/wp-admin/
-* https://forum.gbs-cidp.org/wp-admin/
 * https://activateworld.com/wp-admin/
 * https://www.thindifference.com/wp-admin/
 * https://lancasterlibraries.org/wp-admin/
