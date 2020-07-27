@@ -10,7 +10,7 @@ installs='aatravelers aidslp alliancewe ascinc baums casapapel ccahatool ccardev
 		iba inoutsource kimberton lindaleealter movingt mstonepartners
 		multimeasures nursepartners patatgiovannis philafight phillymagic
 		phlcontroller phlgeekawards phrootz pjerome researchforact riverfrontn
-		soulfullproj spicermullikin steverotfeld tredyffrin upennaisp waverly
+		soulfullproj spicermullikin steverotfeld tredyffrin waverly
 		yikescloud yikesplugins'
 
 for install in $installs;
