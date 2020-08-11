@@ -11,6 +11,22 @@ When SSH'ing into a new server, you may need to manually confirm the host's auth
 RSA key fingerprint is SHA256:T8IoIgBRJ3gDjA6/q7i33+nSrrpVfZipYtxo1rqvww4.
 Are you sure you want to continue connecting (yes/no)?`
 
+## Plugins not included in automatic update.
+The following plugins are not included to be automatically updated due to previously reported breakage. These updates must be met with care.
+* WooCommerce
+* Mailgun
+* Slider Pro
+* Slider Pro Assets
+
+Sites that have these plugins? 
+* https://www.ccarnet.org/
+* https://paulajerome.com/
+* https://phrootz.com/
+* https://www.flyingfish.com/
+* https://www.baumsdancewear.com/
+* https://www.queerbooks.com/
+* https://casapapel.com/
+* http://www.flyingmonkeyphilly.com/wp-admin/
 
 ## Site updates not covered
 
