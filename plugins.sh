@@ -18,7 +18,7 @@ do
   echo "**********************************************************************"
   echo "Site: $install ($install@$install.ssh.wpengine.net)"
   printf "\n"
-  ssh $install@$install.ssh.wpengine.net 'cd /sites/$install; wp core update; wp core language update; wp theme update --all; wp plugin update --all --exclude=slider-pro,slider-pro-assets,mailgun,woocommerce; exit;'
+  ssh $install@$install.ssh.wpengine.net 'cd /sites/$install; wp core update; wp core language update; wp theme update --all; wp plugin update --all --exclude=slider-pro,slider-pro-assets,mailgun,woocommerce,gutenberg; exit;'
   echo "**********************************************************************"
   printf "\n\n"
 done
